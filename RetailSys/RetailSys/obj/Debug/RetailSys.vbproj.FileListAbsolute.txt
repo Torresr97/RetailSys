@@ -1,0 +1,54 @@
+c:\users\alumno\documents\visual studio 2015\Projects\RetailSys\RetailSys\bin\Debug\RetailSys.exe.config
+c:\users\alumno\documents\visual studio 2015\Projects\RetailSys\RetailSys\bin\Debug\RetailSys.exe
+c:\users\alumno\documents\visual studio 2015\Projects\RetailSys\RetailSys\bin\Debug\RetailSys.pdb
+c:\users\alumno\documents\visual studio 2015\Projects\RetailSys\RetailSys\bin\Debug\RetailSys.xml
+c:\users\alumno\documents\visual studio 2015\Projects\RetailSys\RetailSys\obj\Debug\RetailSys.vbprojResolveAssemblyReference.cache
+c:\users\alumno\documents\visual studio 2015\Projects\RetailSys\RetailSys\obj\Debug\RetailSys.Form1.resources
+c:\users\alumno\documents\visual studio 2015\Projects\RetailSys\RetailSys\obj\Debug\RetailSys.Resources.resources
+c:\users\alumno\documents\visual studio 2015\Projects\RetailSys\RetailSys\obj\Debug\RetailSys.vbproj.GenerateResource.Cache
+c:\users\alumno\documents\visual studio 2015\Projects\RetailSys\RetailSys\obj\Debug\RetailSys.exe
+c:\users\alumno\documents\visual studio 2015\Projects\RetailSys\RetailSys\obj\Debug\RetailSys.xml
+c:\users\alumno\documents\visual studio 2015\Projects\RetailSys\RetailSys\obj\Debug\RetailSys.pdb
+D:\DESARROLLO\RetailSys\RetailSys\bin\Debug\RetailSys.exe.config
+D:\DESARROLLO\RetailSys\RetailSys\obj\Debug\RetailSys.exe
+D:\DESARROLLO\RetailSys\RetailSys\obj\Debug\RetailSys.xml
+D:\DESARROLLO\RetailSys\RetailSys\obj\Debug\RetailSys.pdb
+D:\DESARROLLO\RetailSys\RetailSys\bin\Debug\RetailSys.exe
+D:\DESARROLLO\RetailSys\RetailSys\bin\Debug\RetailSys.pdb
+D:\DESARROLLO\RetailSys\RetailSys\bin\Debug\RetailSys.xml
+D:\DESARROLLO\RetailSys\RetailSys\obj\Debug\RetailSys.vbprojResolveAssemblyReference.cache
+D:\DESARROLLO\RetailSys\RetailSys\obj\Debug\RetailSys.Form1.resources
+D:\DESARROLLO\RetailSys\RetailSys\obj\Debug\RetailSys.frmUsuarios.resources
+D:\DESARROLLO\RetailSys\RetailSys\obj\Debug\RetailSys.Resources.resources
+D:\DESARROLLO\RetailSys\RetailSys\obj\Debug\RetailSys.vbproj.GenerateResource.Cache
+C:\Users\Ariel\Documents\Visual Studio 2015\Projects\DESARROLLO DE SOFTWARE\RetailSys\RetailSys\RetailSys\bin\Debug\RetailSys.exe.config
+C:\Users\Ariel\Documents\Visual Studio 2015\Projects\DESARROLLO DE SOFTWARE\RetailSys\RetailSys\RetailSys\obj\Debug\RetailSys.exe
+C:\Users\Ariel\Documents\Visual Studio 2015\Projects\DESARROLLO DE SOFTWARE\RetailSys\RetailSys\RetailSys\obj\Debug\RetailSys.xml
+C:\Users\Ariel\Documents\Visual Studio 2015\Projects\DESARROLLO DE SOFTWARE\RetailSys\RetailSys\RetailSys\obj\Debug\RetailSys.pdb
+C:\Users\Ariel\Documents\Visual Studio 2015\Projects\DESARROLLO DE SOFTWARE\RetailSys\RetailSys\RetailSys\bin\Debug\RetailSys.exe
+C:\Users\Ariel\Documents\Visual Studio 2015\Projects\DESARROLLO DE SOFTWARE\RetailSys\RetailSys\RetailSys\bin\Debug\RetailSys.pdb
+C:\Users\Ariel\Documents\Visual Studio 2015\Projects\DESARROLLO DE SOFTWARE\RetailSys\RetailSys\RetailSys\bin\Debug\RetailSys.xml
+C:\Users\Ariel\Documents\Visual Studio 2015\Projects\DESARROLLO DE SOFTWARE\RetailSys\RetailSys\RetailSys\obj\Debug\RetailSys.vbprojResolveAssemblyReference.cache
+C:\Users\Ariel\Documents\Visual Studio 2015\Projects\DESARROLLO DE SOFTWARE\RetailSys\RetailSys\RetailSys\obj\Debug\RetailSys.frmUsuarios.resources
+C:\Users\Ariel\Documents\Visual Studio 2015\Projects\DESARROLLO DE SOFTWARE\RetailSys\RetailSys\RetailSys\obj\Debug\RetailSys.Resources.resources
+C:\Users\Ariel\Documents\Visual Studio 2015\Projects\DESARROLLO DE SOFTWARE\RetailSys\RetailSys\RetailSys\obj\Debug\RetailSys.vbproj.GenerateResource.Cache
+C:\Users\Ariel\Documents\Visual Studio 2015\Projects\DESARROLLO DE SOFTWARE\RetailSys\RetailSys\RetailSys\obj\Debug\RetailSys.frmArticulos.resources
+C:\Users\Ariel\Documents\Visual Studio 2015\Projects\DESARROLLO DE SOFTWARE\RetailSys\RetailSys\RetailSys\obj\Debug\RetailSys.frmCompras.resources
+C:\Users\Ariel\Documents\Visual Studio 2015\Projects\DESARROLLO DE SOFTWARE\RetailSys\RetailSys\RetailSys\obj\Debug\RetailSys.frmVentas.resources
+C:\Users\Ariel\Documents\Visual Studio 2015\Projects\DESARROLLO DE SOFTWARE\RetailSys\RetailSys\RetailSys\obj\Debug\RetailSys.frmRegalias.resources
+E:\ArielTorres\Documents\Clases\Desarrollo de Software\RetailSys (1)\RetailSys\RetailSys\RetailSys\bin\Debug\RetailSys.exe.config
+E:\ArielTorres\Documents\Clases\Desarrollo de Software\RetailSys (1)\RetailSys\RetailSys\RetailSys\bin\Debug\RetailSys.exe
+E:\ArielTorres\Documents\Clases\Desarrollo de Software\RetailSys (1)\RetailSys\RetailSys\RetailSys\bin\Debug\RetailSys.pdb
+E:\ArielTorres\Documents\Clases\Desarrollo de Software\RetailSys (1)\RetailSys\RetailSys\RetailSys\bin\Debug\RetailSys.xml
+E:\ArielTorres\Documents\Clases\Desarrollo de Software\RetailSys (1)\RetailSys\RetailSys\RetailSys\obj\Debug\RetailSys.vbprojAssemblyReference.cache
+E:\ArielTorres\Documents\Clases\Desarrollo de Software\RetailSys (1)\RetailSys\RetailSys\RetailSys\obj\Debug\RetailSys.frmArticulos.resources
+E:\ArielTorres\Documents\Clases\Desarrollo de Software\RetailSys (1)\RetailSys\RetailSys\RetailSys\obj\Debug\RetailSys.frmCompras.resources
+E:\ArielTorres\Documents\Clases\Desarrollo de Software\RetailSys (1)\RetailSys\RetailSys\RetailSys\obj\Debug\RetailSys.frmRegalias.resources
+E:\ArielTorres\Documents\Clases\Desarrollo de Software\RetailSys (1)\RetailSys\RetailSys\RetailSys\obj\Debug\RetailSys.frmUsuarios.resources
+E:\ArielTorres\Documents\Clases\Desarrollo de Software\RetailSys (1)\RetailSys\RetailSys\RetailSys\obj\Debug\RetailSys.frmVentas.resources
+E:\ArielTorres\Documents\Clases\Desarrollo de Software\RetailSys (1)\RetailSys\RetailSys\RetailSys\obj\Debug\RetailSys.Resources.resources
+E:\ArielTorres\Documents\Clases\Desarrollo de Software\RetailSys (1)\RetailSys\RetailSys\RetailSys\obj\Debug\RetailSys.vbproj.GenerateResource.cache
+E:\ArielTorres\Documents\Clases\Desarrollo de Software\RetailSys (1)\RetailSys\RetailSys\RetailSys\obj\Debug\RetailSys.vbproj.CoreCompileInputs.cache
+E:\ArielTorres\Documents\Clases\Desarrollo de Software\RetailSys (1)\RetailSys\RetailSys\RetailSys\obj\Debug\RetailSys.exe
+E:\ArielTorres\Documents\Clases\Desarrollo de Software\RetailSys (1)\RetailSys\RetailSys\RetailSys\obj\Debug\RetailSys.xml
+E:\ArielTorres\Documents\Clases\Desarrollo de Software\RetailSys (1)\RetailSys\RetailSys\RetailSys\obj\Debug\RetailSys.pdb
